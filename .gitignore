@@ -2,3 +2,5 @@
 *.exe
 *.cache
 *.*.cache
+#忽视debug目录内容
+bin/
