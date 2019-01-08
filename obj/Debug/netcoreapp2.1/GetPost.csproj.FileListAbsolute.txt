@@ -1,0 +1,11 @@
+C:\Users\zhangxinyan\Desktop\GetPost\bin\Debug\netcoreapp2.1\GetPost.deps.json
+C:\Users\zhangxinyan\Desktop\GetPost\bin\Debug\netcoreapp2.1\GetPost.runtimeconfig.json
+C:\Users\zhangxinyan\Desktop\GetPost\bin\Debug\netcoreapp2.1\GetPost.runtimeconfig.dev.json
+C:\Users\zhangxinyan\Desktop\GetPost\bin\Debug\netcoreapp2.1\GetPost.dll
+C:\Users\zhangxinyan\Desktop\GetPost\bin\Debug\netcoreapp2.1\GetPost.pdb
+C:\Users\zhangxinyan\Desktop\GetPost\obj\Debug\netcoreapp2.1\GetPost.csprojAssemblyReference.cache
+C:\Users\zhangxinyan\Desktop\GetPost\obj\Debug\netcoreapp2.1\GetPost.csproj.CoreCompileInputs.cache
+C:\Users\zhangxinyan\Desktop\GetPost\obj\Debug\netcoreapp2.1\GetPost.AssemblyInfoInputs.cache
+C:\Users\zhangxinyan\Desktop\GetPost\obj\Debug\netcoreapp2.1\GetPost.AssemblyInfo.cs
+C:\Users\zhangxinyan\Desktop\GetPost\obj\Debug\netcoreapp2.1\GetPost.dll
+C:\Users\zhangxinyan\Desktop\GetPost\obj\Debug\netcoreapp2.1\GetPost.pdb
