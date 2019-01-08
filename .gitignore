@@ -5,4 +5,4 @@
 #忽视debug目录内容
 bin/
 #忽视obj/Debug/目录内容
-obj/Debug/
+obj/Debug/netcoreapp2.1/
